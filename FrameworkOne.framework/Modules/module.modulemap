@@ -1,0 +1,6 @@
+framework module FrameworkOne {
+  umbrella header "FrameworkOne.h"
+
+  export *
+  module * { export * }
+}
