@@ -1,0 +1,6 @@
+framework module FrameworkCore {
+  umbrella header "FrameworkCore.h"
+
+  export *
+  module * { export * }
+}
